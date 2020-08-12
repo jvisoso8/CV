@@ -1,0 +1,321 @@
+{
+  "main": {
+    "name":"José Visoso Parás",
+    "occupation":"Developer and Entrepreneur",
+    "description":"I have developed a wide range of skills with a forward focus on Project Management. I am focused on learning and developing my technical base",
+    "image":"ForestBg2.jpg",
+    "bio":"I am highly motivated Developer with entrepreneurial tendencies, I enjoy complex puzzles, developing solutions for users and long walks on the beach",
+    "contactmessage":"Contact me with any questions!",
+    "email": "Jvisoso8@hotmail.com",
+    "phone": "55 44 54 54 17",
+    "address":{
+      "street":"Av de Los Poetas",
+      "city":"Mexico City",
+      "state":"CDMX",
+      "zip": "05600"
+    },
+    "website": "",
+    "resumedownload":"Files/JoseVisosoCV2020.docx",
+    "social":[
+
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"http://github.com/jvisoso8",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"My skills are based in: Programing, Front End, Databases, Project Management, Data Analysis, Data Visualization, Cloud, Coding Practices",
+    "education":[
+      {
+        "school":"Instituto Tecnológico Autónomo de México",
+        "degree":"Computer Engineering (Six Semesters)",
+        "graduated":"(2017-2020)",
+        "description":"Focus on: Advance Data Structures, Geographical Information Systems, Data sources, Data analysis, Geographical  Marketing, Busines Analysis "
+      }
+    ],
+    "work":[
+      {
+        "company":"Uncover  Index",
+        "title":"Co-Founder  ",
+        "years":"(JUNE/20 - Current) ",
+        "description":"Skills: React, JavaScript, Google Cloud, Agile, Google Analytics, Lean Startup Methodology, Team management, Software development \n •Recruiting and leading a team of 2 in the design, development and deployment of the MVP.\n•\tProduct and brand development to crate our solution to the problem our target market faces to begin testing our assumptions and the markets response.  \n•\tMain full stack developer of the Web App \n"
+      },
+      {
+        "company":"CISCO ",
+        "title":"Enterprise Engineering Intern ",
+        "years":"(Summer 2018)",
+        "description":"Technical Skills: python, Elasticsearch, ubuntu server, costume reporting platform, data visualization \n•\tWorking as part of a team developing virtual networks for internal testing of possible implementations\n•\tDevelopment and implementation of the user behavior analysis system to understand the needs of our users in order to optimize the system and future development, by recording user behavior and crating real time reporting interface for managers. \n•\tDocumentation of new system and unit test to ensure scalability and allow for changes in the team structure."
+      },
+      {
+        "company":"Dinnovation Group",
+        "title":"Computer Consultant Intern ",
+        "years":"(Summer 2017)",
+        "description":"Technical Skills: C#, python, Git, Html, JavaScript \n•\tParticipated in the implementation of coding standards for code maintenance and to ease team work by implementing a platform that analyses git commits and the common mistakes in code that impact time and space complexity, as well as code readability "
+      },
+      {
+        "company":"Procter and Gamble",
+        "title":"Manufacturing Operations Intern ",
+        "years":"(SEP – DEC 2015)",
+        "description":"Technical Skills: Exel, Visual Basic, \n•\tProcess optimization in reduction of waste and defective products in Crest production line. \n"
+      }
+    ],
+    "skills":[
+      {
+      "title": true,
+      "name":"Languages"
+
+
+      },
+      {
+        "title": false,
+        "name":"Spanish (native)",
+        "level":"95%"
+
+      },
+      {
+        "title": false,
+        "name":"English (Fluent)",
+        "level":"90%"
+      },
+      {
+        "title": true,
+        "name":"Programing"
+
+
+      },
+      {
+        "title": false,
+        "name":"Java",
+        "level":"80%"
+
+      },
+      {
+        "title": false,
+        "name":"python",
+        "level":"75%"
+      },
+      {
+        "title": false,
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "title": false,
+        "name":"C#",
+        "level":"50%"
+      },
+      {
+        "title": false,
+        "name":"C++",
+        "level":"30%"
+      },
+      {
+        "title": false,
+        "name":"visual basic",
+        "level":"30%"
+      },
+      {
+        "title": false,
+        "name":"Data Structures",
+        "level":"70%"
+      },
+
+      {
+        "title": true,
+        "name":"Front End"
+
+
+      },
+      {
+        "title": false,
+        "name":"React",
+        "level":"75%"
+      },
+      {
+        "title": false,
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "title": false,
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "title": true,
+        "name":"Databases"
+
+
+      },
+      {
+        "title": false,
+        "name":"MongoDB",
+        "level":"40%"
+      },
+      {
+        "title": false,
+        "name":"Elasticsearch",
+        "level":"70%"
+      },
+      {
+        "title": false,
+        "name":"SQL",
+        "level":"60%"
+      },
+      {
+        "title": false,
+        "name":"Orion Context Broker",
+        "level":"40%"
+      },
+      {
+        "title": false,
+        "name":"Hadoop",
+        "level":"45%"
+      },
+      {
+        "title": true,
+        "name":"Project Management"
+
+
+      },
+      {
+        "title": false,
+        "name":"Agile",
+        "level":"90%"
+      },
+      {
+        "title": false,
+        "name":"Waterfall",
+        "level":"60%"
+      },
+      {
+        "title": false,
+        "name":"Lean Startup Methodology ",
+        "level":"90%"
+      },
+      {
+        "title": true,
+        "name":"Data Analysis "
+
+      },
+      {
+        "title": false,
+        "name":"Hadoop ",
+        "level":"45%"
+      },
+      {
+        "name":"HDFS ",
+        "level":"45%"
+      },
+      {
+        "title": false,
+        "name":"QGIS ",
+        "level":"85%"
+      },
+      {
+        "title": false,
+        "name":"Gephi ",
+        "level":"25%"
+      },
+      {
+        "title": false,
+        "name":"python ",
+        "level":"80%"
+      },
+      {
+        "title": false,
+        "name":"Google Analytics ",
+        "level":"50%"
+      },
+      {
+        "title": true,
+        "name":"Data Visualization "
+      },
+      {
+        "title": false,
+        "name":"Elasticsearch ",
+        "level":"65%"
+      },
+      {
+        "title": false,
+        "name":"QGIS ",
+        "level":"85%"
+      },
+      {
+        "title": false,
+        "name":"Costume Dashboards ",
+        "level":"75%"
+      },
+      {
+        "title": true,
+        "name":"Cloud"
+
+      },
+      {
+        "title": false,
+        "name":"Google App engine",
+        "level":"75%"
+      },
+      {
+        "title": false,
+        "name":"MongoDB Atlas ",
+        "level":"65%"
+      },
+      {
+        "title": false,
+        "name":"Firebase ",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Uncover Index",
+        "category":"Web App to help Users find new books",
+        "image":"UncoverIndex.jpg",
+        "url":"https://UncoverIndex.com"
+      },
+      {
+        "title":"GeoMarketing Analysis",
+        "category":"Analysis of new location for restaurant Locale (In Spanish)",
+        "image":"GeoMKT.png",
+        "url":"https://JoseVisosoParas.com/Files/GinzaGeoMkt.pdf"
+      },
+      {
+        "title":"Crime in Mexico CIty",
+        "category":"Proof of concept of the application of new technologies to understand crime in Mexico City (In Spanish)",
+        "image":"CrimeInMexico.png",
+        "url":"http://localhost:3000/Files/CrimenInMexico.pdf"
+      },
+      {
+        "title":"Resume Website",
+        "category":"An implementation of a React based resume website template",
+        "image":"PortafolioCV.png",
+        "url":"/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
