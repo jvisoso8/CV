@@ -7,7 +7,7 @@ class Portfolio extends Component {
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
         return <span key={projects.title} className="columns portfolio-item">
-           <div className="item-wrap" style={{ width: "450px",
+           <div className="item-wrap" style={{ width: "50%",
                margin: "auto"}}>
             <a href={projects.url} title={projects.title} >
                <img  alt={projects.title} src={projectImage} />

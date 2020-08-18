@@ -20,8 +20,7 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
+
 
   }
 
@@ -42,6 +41,9 @@ class App extends Component {
 
   componentDidMount(){
     this.getResumeData();
+    const trackingId = "UA-169934410-1";
+    ReactGA.initialize(trackingId);
+    ReactGA.pageview(window.location.pathname + window.location.search)
   }
 
   render() {
